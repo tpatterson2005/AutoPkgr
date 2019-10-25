@@ -1,0 +1,10 @@
+<script>
+	<name>GeogebraPreinstall.sh</name>
+	<category>MacOS (Productivity) Applications</category>
+	<filename>GeogebraPreinstall.sh</filename>
+	<info />
+	<notes />
+	<priority>Before</priority>
+	<parameters />
+	<os_requirements />
+</script>
